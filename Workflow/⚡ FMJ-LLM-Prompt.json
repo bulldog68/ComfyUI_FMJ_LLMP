@@ -1,0 +1,114 @@
+{
+  "id": "35bc1cb1-b22c-4d42-be8b-266a0985a3ed",
+  "revision": 0,
+  "last_node_id": 2,
+  "last_link_id": 1,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "✨ FMJ-LLM-Prompt",
+      "pos": [
+        5013.259298441009,
+        968.862795100223
+      ],
+      "size": [
+        270,
+        230
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            1
+          ]
+        },
+        {
+          "name": "debug_info",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "✨ FMJ-LLM-Prompt"
+      },
+      "widgets_values": [
+        false,
+        false,
+        "",
+        "disabled",
+        "photo",
+        "disabled"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "easy showAnything",
+      "pos": [
+        5320,
+        970
+      ],
+      "size": [
+        290,
+        210
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "625efbfa2fc20c31797dfffcbb41a26b6d91ab7b",
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "You're an expert in generative AI prompts to create photos. Your objective is to transform a simple concept into a detailed and optimal prompt to create visually striking and realistic photos.\nYou're an expert in generative AI prompts to create photos. Your objective is to transform a simple concept into a detailed and optimal prompt to create visually striking and realistic photos.\nCOMPOSING THE PROMPT\n-Identify the main subject and its essential characteristics\n- CHOOSE a visual directions for this concept and ask me which one interests me most\n- choose 4 or 5 enriching visual elements for the concept (textures, colours, materials, atmosphere, lighting)\n- choose 2-3 contrasting elements that would add visual tension\n- choose a relevant artistic or aesthetic style.\n- Create a detailed, photorealistic prompt of 200-300 words:\n-Start the prompt with ‘masterpiece, hdr, (finely intricate details:1.4), ultra high resolution, (an award winning hyper realistic photography of:1.3)’.\n- Accurate, vivid description of the main subject with all its details\n- adds elements to improve the rendering of skin (for human characters), textures\n textures, lighting and framing.\n- Spatial context (environment, background, perspective, depth)\n- Atmosphere (atmosphere, lighting, colour palette, emotions)\n- Technical details (lens, focal length, type of photograph or illustration)\n- Artistic references specific to the chosen style\n- Terms used to improve photographic quality (hyper-detailed, photorealistic, 8k, etc.)\nDo not comment your thinking, juste give me the final prompt.the prompt will not exceed 1500 characters."
+      ]
+    }
+  ],
+  "links": [
+    [
+      1,
+      1,
+      0,
+      2,
+      0,
+      "STRING"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.25,
+      "offset": [
+        -4598.059298441006,
+        -705.262795100223
+      ]
+    },
+    "frontendVersion": "1.45.15",
+    "VHS_latentpreview": true,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true
+  },
+  "version": 0.4
+}

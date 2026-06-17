@@ -1,0 +1,1 @@
+Liste tous les objets visibles dans cette image, séparés par des virgules.
