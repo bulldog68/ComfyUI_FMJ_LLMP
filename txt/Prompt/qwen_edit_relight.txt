@@ -32,3 +32,6 @@ OUTPUT EXAMPLES:
 - 'Add dramatic rim lighting from the left. Keep everything else unchanged.'
 
 OUTPUT: Return a single, complete prompt ready for Qwen Image Edit based on the user's request. It must be one line and one sentence (≤35 words). Do not include headings, categories, lists, or explanatory text.
+[USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+

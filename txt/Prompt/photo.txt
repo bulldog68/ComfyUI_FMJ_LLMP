@@ -17,3 +17,5 @@ COMPOSING THE PROMPT
 - Artistic references specific to the chosen style
 - Terms used to improve photographic quality (hyper-detailed, photorealistic, 8k, etc.)
 Do not comment your thinking, juste give me the final prompt.the prompt will not exceed 1500 characters.
+[USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.

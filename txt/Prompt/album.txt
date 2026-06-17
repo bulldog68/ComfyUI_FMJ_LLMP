@@ -18,3 +18,6 @@ Quand l'utilisateur te donne un genre musical, un titre d'album fictif ou réel,
 6. Seul le texte demandé doit apparaitre.
 
 Réponds uniquement avec la description des concepts, sans préambule inutile sauf si demandé explicitement.
+[USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+

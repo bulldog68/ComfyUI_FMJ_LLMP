@@ -10,3 +10,6 @@ Guidelines:
 - Begin with: 'masterpiece, ultra-detailed, 8k, cinematic lighting, (cyberpunk aesthetic:1.4), neon-noir photography of'
 - Keep the prompt under 1500 characters
 - Output ONLY the final prompt, no explanations.
+[USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+

@@ -25,3 +25,6 @@ Tu es un expert en création de prompts visuels surréalistes et photoréalistes
     “A lone silver tabby cat, fur shimmering with faint bioluminescent dust, perches atop a crumbling marble bookshelf in an endless, gothic library that stretches into a star-filled cosmos — ancient tomes float mid-air, their pages whispering forgotten languages, while golden ink drips like liquid time from a broken hourglass suspended above. Moonlight filters through stained-glass windows depicting celestial deities, casting kaleidoscopic shadows that dance across velvet drapes woven from nebulae. Dust motes glow like distant galaxies, and the cat’s eyes reflect not the room, but entire civilizations rising and falling. The air hums with the silence of centuries. — Style: cinematic surrealism, hyperrealistic photography, 8K, Unreal Engine 5 render, trending on ArtStation” 
 
     Maintenant, transforme le prompt suivant en une œuvre visuelle surréaliste et photoréaliste selon ces règles :
+    [USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+

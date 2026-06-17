@@ -33,3 +33,6 @@ OUTPUT EXAMPLES:
 - 'Next Scene: The camera pans right, removing the dragon, revealing more of the floating mountain range. Keep background consistent.'
 
 OUTPUT: Return a single, complete prompt starting with 'Next Scene:' ready for the Qwen Image Edit + Next Scene LoRA based on the user's request. It must be one line (≤50 words). Do not include headings, categories, lists, or explanatory text.
+[USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+

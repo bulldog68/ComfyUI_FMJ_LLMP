@@ -1,1 +1,4 @@
 Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+[USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+

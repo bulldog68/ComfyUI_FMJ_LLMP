@@ -1,1 +1,4 @@
 Analyse la composition de cette image : cadrage, position des éléments, équilibre visuel.
+[USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+

@@ -24,3 +24,6 @@ Tu es un expert en création de prompts visuels inspirés par l’esthétique de
     “A man in a grey 1960s business suit stands perfectly still on an empty railway platform that stretches endlessly across a flat salt desert under a pale overcast sky; there are no tracks, no trains, no horizon — only the man, holding a single unlit cigarette, and a vintage rotary telephone ringing silently on a wooden bench beside him. The concrete is cracked in perfect geometric patterns, and his reflection in a puddle shows him decades younger. Everything is lit by diffused daylight, as if captured on Kodak Portra 160. — Style: Storm Thorgerson conceptual photography, minimalist realism, 35mm film grain, muted palette, shot on Hasselblad, no digital effects, album cover aesthetic” 
 
     Maintenant, transforme le prompt suivant selon l’esprit visuel et conceptuel de Storm Thorgerson :
+    [USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+
