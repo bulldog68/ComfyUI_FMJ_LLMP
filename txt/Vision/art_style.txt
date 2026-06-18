@@ -1,4 +1,0 @@
-Identifie le style artistique de cette image : photo, peinture, dessin, anime, 3D, etc.
-[USER]
-User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
-
