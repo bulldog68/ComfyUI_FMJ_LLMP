@@ -1,0 +1,4 @@
+Décris les personnages présents : apparence, vêtements, expression, posture.
+[USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+

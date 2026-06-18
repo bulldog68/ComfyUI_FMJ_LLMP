@@ -1,0 +1,4 @@
+Décris brièvement cette image en une phrase simple.
+[USER]
+User idea: {{original_prompt}}, Décris cette image de façon très détaillée, comme un expert en vision par ordinateur.
+
